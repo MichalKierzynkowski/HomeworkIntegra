@@ -17,6 +17,7 @@ namespace FirstExercise.Tests
         [InlineData(2,7)]
         [InlineData(0,4)]
         [InlineData(-2,4)]
+        [InlineData(10,5)]
       
         public void SwapValuesTest(int a,int b)
         {
